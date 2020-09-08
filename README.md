@@ -1,1 +1,1 @@
-# Mobile-Friendly-Websites
+# Mobile-Friendly-Practice
